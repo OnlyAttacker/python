@@ -5,4 +5,7 @@ def optional_parameter(a=1,b=2):
     print a,b
 
 if __name__ == '__main__':
-    optional_parameter(b=22)
+    optional_parameter(b=22)    #输出 1 22
+
+
+
